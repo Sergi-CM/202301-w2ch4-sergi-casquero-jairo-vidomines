@@ -1,4 +1,4 @@
-class CodersArray {
+export class CodersArray {
   length = 0;
   constructor(...userInputs) {
     let index = 0;
